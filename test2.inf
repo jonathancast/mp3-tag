@@ -1,0 +1,23 @@
+#created by test script
+#
+CDINDEX_DISCID=	'nFif1ufKKowDai0uJk8E7b_B1cw-'
+CDDB_DISCID=	0xe60ca011
+MCN=		
+ISRC=		               
+#
+Albumperformer=	'Some Choir'
+Performer=	'Bach (2110)'
+Albumtitle=	'Liturgy of St. John; Op 31'
+Tracktitle=	'It Is Truly Meet'
+Tracknumber=	11
+Trackstart=	174717
+# track length in sectors (1/75 seconds each), rest samples
+Tracklength=	10533, 0
+Pre-emphasis=	no
+Channels=	2
+Copy_permitted=	once (copyright protected)
+Endianess=	little
+# index list
+Index=		0
+Year=		1988
+Trackcomment=	'Chiribim conducts Some Choir; recorded in Mariann'
