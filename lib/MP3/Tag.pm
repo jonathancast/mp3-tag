@@ -13,10 +13,10 @@ package MP3::Tag;
 #
 # at the moment MP3::Tag works with MP3::Tag::ID3v1 and MP3::Tag::ID3v2
 
+use strict;
+
 use vars qw/$VERSION @ISA/;
 $VERSION="1.16";
-
-use strict;
 
 {
   package MP3::Tag::__hasparent;
